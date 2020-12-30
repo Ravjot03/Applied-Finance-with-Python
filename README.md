@@ -5,6 +5,11 @@ This repository contains Financial concepts in Python programming language.
 -------------------------------------------------------------------------------------------------
 
 ## Contents 
+  - ### Theoretical Concepts:
+    * [Intro to Python for Finance](https://github.com/Ravjot03/Intro-to-Python-for-Finance):
+    In this jupyter notebook, I have built visualizations from Stocks dataset.
+    I have used Matplotlib package for creating line plots, scatter plots and histograms.
+    
   - ### Case Study:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
     The S&P 100 is a stock market index made up of one hundred major companies in the United States that span multiple industries.
