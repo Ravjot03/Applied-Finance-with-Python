@@ -9,7 +9,9 @@ This repository contains Financial concepts in Python programming language.
     * [Intro to Python for Finance](https://github.com/Ravjot03/Intro-to-Python-for-Finance):
     In this jupyter notebook, I have built visualizations from Stocks dataset.
     I have used Matplotlib package for creating line plots, scatter plots and histograms.
-    * [Python Datetime() function for Finance](https://github.com/Ravjot03/Python-Datetime-function-for-Finance)
+    * [Python Datetime() function for Finance](https://github.com/Ravjot03/Python-Datetime-function-for-Finance):
+    In this jupyter notebook, I have explained Python Datetime() function.
+    How to create and manipulate Python datetime objects to help identify key financial events.
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
