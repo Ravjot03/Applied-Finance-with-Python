@@ -13,6 +13,7 @@ This repository contains Financial concepts in Python programming language.
     In this jupyter notebook, I have explained Python Datetime() function.
     How to create and manipulate Python datetime objects to help identify key financial events.
     * [Exploratory Data Analysis for Financial Data](https://github.com/Ravjot03/Exploratory-Data-Analysis-for-Financial-Data):
+    In this jupyter notebook, I have performed Exploratory Data Analysis (EDA) on Stock Prices dataset of a company (any XYZ).
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
