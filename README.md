@@ -12,6 +12,7 @@ This repository contains Financial concepts in Python programming language.
     * [Python Datetime() function for Finance](https://github.com/Ravjot03/Python-Datetime-function-for-Finance):
     In this jupyter notebook, I have explained Python Datetime() function.
     How to create and manipulate Python datetime objects to help identify key financial events.
+    * [Exploratory Data Analysis for Financial Data] (https://github.com/Ravjot03/Exploratory-Data-Analysis-for-Financial-Data)
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
