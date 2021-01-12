@@ -15,6 +15,7 @@ This repository contains Financial concepts in Python programming language.
     * [Exploratory Data Analysis for Financial Data](https://github.com/Ravjot03/Exploratory-Data-Analysis-for-Financial-Data):
     In this jupyter notebook, I have performed Exploratory Data Analysis (EDA) on Stock Prices dataset of a company (any XYZ).
     * [Financial Concepts in Python](https://github.com/Ravjot03/Financial-Concepts-in-Python):
+    In this jupyter notebook, I have explained the basic principles of finance. How these are essential in making data-driven financial decisions.
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
