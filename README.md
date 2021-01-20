@@ -17,7 +17,7 @@ This repository contains Financial concepts in Python programming language.
     * [Financial Concepts in Python](https://github.com/Ravjot03/Financial-Concepts-in-Python):
     In this jupyter notebook, I have explained the basic principles of finance. How these are essential in making data-driven financial decisions.
     * [Working with Time Series in pandas](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-1):
-    
+    In this jupyter notebook, I have explained how to create, manipulate and do calculations on time series data.
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
     The S&P 100 is a stock market index made up of one hundred major companies in the United States that span multiple industries.
