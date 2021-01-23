@@ -19,7 +19,7 @@ This repository contains Financial concepts in Python programming language.
     * [Working with Time Series in pandas](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-1):
     In this jupyter notebook, I have explained how to create, manipulate and do calculations on time series data.
     * [Time Series Metrics and Resampling](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-2):
-    In this jupyter notebook, 
+    In this jupyter notebook, I have explained how to compare different time series, changing time series frequency (resampling) and its types.
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
