@@ -21,6 +21,7 @@ This repository contains Financial concepts in Python programming language.
     * [Time Series Metrics and Resampling](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-2):
     In this jupyter notebook, I have explained how to compare different time series, changing time series frequency (resampling) and its types.
     * [Resampling and Interpolation](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-3):
+    In this jupyter notebook, I have explained how to resample and interpolate time series data using pandas in Python. What is upsampling and use of different interpolation techniques. Also, What is downsampling and grouping of data.
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
