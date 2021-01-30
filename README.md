@@ -22,7 +22,7 @@ This repository contains Financial concepts in Python programming language.
     In this jupyter notebook, I have explained how to compare different time series, changing time series frequency (resampling) and its types.
     * [Resampling and Interpolation](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-3):
     In this jupyter notebook, I have explained how to resample and interpolate time series data using pandas in Python. What is upsampling and use of different interpolation techniques. Also, What is downsampling and grouping of data.
-    * [Window Functions with pandas]():
+    * [Window Functions with pandas](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-4):
     In this jupyter notebook, I have explained what are window functions, how to calculate time series metrics for both rolling and expanding window functions.
     
   - ### Case Studies:
