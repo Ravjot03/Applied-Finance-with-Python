@@ -24,6 +24,8 @@ This repository contains Financial concepts in Python programming language.
     In this jupyter notebook, I have explained how to resample and interpolate time series data using pandas in Python. What is upsampling and use of different interpolation techniques. Also, What is downsampling and grouping of data.
     * [Window Functions with pandas](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-4):
     In this jupyter notebook, I have explained what are window functions, how to calculate time series metrics for both rolling and expanding window functions.
+    * [Importing Financial Data from Excel](https://github.com/Ravjot03/Financial-Data-in-Python/tree/main/Importing%20Data/Chapter-1):
+    
     
   - ### Case Studies:
     * [S&P 100 Companies](https://github.com/Ravjot03/S-P100_Companies_CaseStudy):
