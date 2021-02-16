@@ -25,6 +25,7 @@ This repository contains Financial concepts in Python programming language.
     * [Window Functions with pandas](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-4):
     In this jupyter notebook, I have explained what are window functions, how to calculate time series metrics for both rolling and expanding window functions.
     * [Importing Financial Data from Excel](https://github.com/Ravjot03/Financial-Data-in-Python/tree/main/Importing%20Data/Chapter-1):
+    In this jupyter notebook, I have explained how to import, clean and combine data from Excel Workbook Sheets to Pandas DataFrame.
     
     
   - ### Case Studies:
