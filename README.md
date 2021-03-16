@@ -28,6 +28,8 @@ This repository contains Financial concepts in Python programming language.
     In this jupyter notebook, I have explained how to import, clean and combine data from Excel Workbook Sheets to Pandas DataFrame.
     * [Importing Financial Data from Web](https://github.com/Ravjot03/Financial-Data-in-Python/tree/main/Importing%20Data/Chapter-2):
     In this jupyter notebook, I have explained how to online access financial data through the Pandas DataReader package.
+    * [Summarizing & Visualizing Financial Data](https://github.com/Ravjot03/Financial-Data-in-Python/tree/main/Managing%20Data/Chapter-1):
+    In this jupyter notebook, I have explained how to capture key characterstics of variables and to understand distribution of variables in the dataset.
     
     
   - ### Case Studies:
